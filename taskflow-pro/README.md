@@ -1,7 +1,4 @@
- TaskFlow Pro - Advanced Task Management System
-https://img.shields.io/badge/MERN-Stack-brightgreen
-https://img.shields.io/badge/Version-1.0.0-blue
-https://img.shields.io/badge/License-MIT-green
+
 
 A modern, full-stack task management application built with the MERN stack (MongoDB, Express.js, React, Node.js). Organize, track, and complete your tasks efficiently with a beautiful, responsive interface.
 
